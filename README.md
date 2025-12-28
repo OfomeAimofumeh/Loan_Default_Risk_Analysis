@@ -17,13 +17,15 @@ This project focuses on developing an interactive Loan Data Analysis Dashboard u
 This dataset records 1,000 Lending Club loans with an overall default rate is of 40.1% and fully paid rate of 60%. This is considered high as we are looking for the lowest default rate to avoid defaulters, the majority of loss is concentrated in the high risk segment confirming the need for stricter restrictions at the point of decision. The top drivers of loan default include:
 ### 1. *Credit Score*
 <img width="620" height="292" alt="image" src="https://github.com/user-attachments/assets/6cde4dc2-6d7a-4b5f-9916-6252c3f92c14" />
-Borrowers with a credit score under the poor and very poor categories account for 70.0% and 76.6% respectively highlighting that individuals with a poor credit score are more likely to default
+- Borrowers with a credit score under the poor and very poor categories account for 70.0% and 76.6% respectively highlighting that individuals with a poor credit score are more likely to default
+
 ### 2. *Interest Rate*
 <img width="680" height="300" alt="image" src="https://github.com/user-attachments/assets/73c77ce7-2a58-4bd2-aa12-d269b231159e" />
-Borrowers with Very High (63.9%) interest rates carry a higher risk of defaulting compared to those with low interest rates attached to their loans
+- Borrowers with Very High (63.9%) interest rates carry a higher risk of defaulting compared to those with low interest rates attached to their loans
+
 ### 3. *Income Level*
 <img width="704" height="296" alt="image" src="https://github.com/user-attachments/assets/8826c3b9-75ec-4bf7-92b8-2c8abac43e07" />
-Borrowers with Low income levels have a 76.8% default rate on loan defaults compared to those with a high income level who only account for 33.0% of the Overall default rate.
+- Borrowers with Low income levels have a 76.8% default rate on loan defaults compared to those with a high income level who only account for 33.0% of the Overall default rate.
 A connecting factor is all individuals with low income havde poor/ bad credit and their loans come with a high income level which makes these factors interrelated
 ---
 
