@@ -3,6 +3,9 @@
 ## Company
 Lending Club
 
+🔗 [ Download excel file]
+(https://github.com/OfomeAimofumeh/Loan_Default_Risk_Analysis/blob/main/Lending_Club_Loan_Data%20Analysis.xlsx)
+
 ## Project Summary
 This project focuses on developing an interactive Loan Data Analysis Dashboard using Microsoft Excel. It provides insights into Lending club's loan portfolio, loan performance, top drivers of loan default, borrower demographics and risk factors using hisorical loan and borrower data. This dashboard reveals:
 - Top drivers of loan default
@@ -53,6 +56,9 @@ Borrowers in risk sensitive categories should be flagged early with a late payme
 
 ## Tools & Technologies Used
 - *Microsoft Excel*
+
+## 📂 Project file
+https://github.com/OfomeAimofumeh/Loan_Default_Risk_Analysis/blob/main/Lending_Club_Loan_Data%20(Raw).xlsx
 
   
 
